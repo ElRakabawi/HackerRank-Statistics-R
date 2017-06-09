@@ -8,7 +8,8 @@ Difficulty: Medium
 
 
 -----------
-**OUTPUT**
+**OUTPUT**:
+
 0.145
 
 
