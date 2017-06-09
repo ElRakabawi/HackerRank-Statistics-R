@@ -6,8 +6,11 @@ Link: https://www.hackerrank.com/challenges/correlation-and-regression-lines-6
 Difficulty: Medium
 
 
+
+-----------
 **OUTPUT**
 0.145
+-----------
 
 
 
